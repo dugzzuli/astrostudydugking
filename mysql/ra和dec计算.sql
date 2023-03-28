@@ -25,6 +25,7 @@ FROM (SELECT 10 AS ra1, 10 AS dec1, 100 AS ra2, 20 AS dec2) AS t;
 
 # mysql数据库中创建函数进行调用，计算不同天文坐标（ra和dec）之间的距离
 ```sql
+
 CREATE FUNCTION astronomical_distance(ra1 FLOAT, dec1 FLOAT, ra2 FLOAT, dec2 FLOAT)
 RETURNS FLOAT
 DETERMINISTIC
