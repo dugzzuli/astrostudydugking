@@ -87,4 +87,35 @@ SELECT ra, decd FROM starsT WHERE astronomical_distance(ra, decd, 60.0, 5.0) < 1
 
 
 
+赋予查看用户viewdata权限:
+GRANT EXECUTE ON FUNCTION mephisto_observation.astronomical_distance TO viewdata@'%';
+
+```
+我给db1数据库里面的函数next_express_code授予执行execute的权限，发现必须EXECUTE,alter routine  on function一起授予才行，如果只授予execute权限是不行的，这是怎么回事呢？
+
+(root@localhost)[db1]> grant EXECUTE on  `
+db1`.`next_express_code` to czxin@''%'' identified by ''123'';
+ERROR 1144 (42000): Illegal GRANT/REVOKE command; please consult the manual to see which privileges can be used
+
+
+(root@localhost)[db1]> grant EXECUTE,select  on  `db1`.`next_express_code` to czxin@''%'' identified by ''123'';
+ERROR 1144 (42000): Illegal GRANT/REVOKE command; please consult the manual to see which privileges can be used
+
+为什么下面这样授权才行呢？
+(root@localhost)[db1]> grant EXECUTE,alter routine  on function  `db1`.`next_express_code` to czxin@''%'' identified by ''123'';
+Query OK, 0 rows affected, 1 warning (0.10 sec)
+###############################################
+很简单啊，如果你直接 grant EXECUTE on  `
+db1`.`next_express_code` to czxin@''%'' identified by ''123'';
+next_express_code会被当做一张表，而且execute是不能在表上添加的权限。
+
+而 grant EXECUTE,alter routine  on function  `db1`.`next_express_code` to czxin@''%'' identified by ''123'';
+execute 是 on function的，就可以成功了。
+```
+
+
+
+
+
+
 
