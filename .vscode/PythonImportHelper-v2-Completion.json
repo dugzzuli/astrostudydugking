@@ -1,5 +1,158 @@
 [
     {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "numpy",
         "kind": 6,
         "isExtraImport": true,
@@ -11515,6 +11668,46 @@
         "documentation": {}
     },
     {
+        "label": "units",
+        "importPath": "astropy",
+        "description": "astropy",
+        "isExtraImport": true,
+        "detail": "astropy",
+        "documentation": {}
+    },
+    {
+        "label": "units",
+        "importPath": "astropy",
+        "description": "astropy",
+        "isExtraImport": true,
+        "detail": "astropy",
+        "documentation": {}
+    },
+    {
+        "label": "SkyCoord",
+        "importPath": "astropy.coordinates",
+        "description": "astropy.coordinates",
+        "isExtraImport": true,
+        "detail": "astropy.coordinates",
+        "documentation": {}
+    },
+    {
+        "label": "SkyCoord",
+        "importPath": "astropy.coordinates",
+        "description": "astropy.coordinates",
+        "isExtraImport": true,
+        "detail": "astropy.coordinates",
+        "documentation": {}
+    },
+    {
+        "label": "SkyCoord",
+        "importPath": "astropy.coordinates",
+        "description": "astropy.coordinates",
+        "isExtraImport": true,
+        "detail": "astropy.coordinates",
+        "documentation": {}
+    },
+    {
         "label": "SkyCoord",
         "importPath": "astropy.coordinates",
         "description": "astropy.coordinates",
@@ -11577,143 +11770,6 @@
         "description": "astropy.time",
         "isExtraImport": true,
         "detail": "astropy.time",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "datetime",
-        "description": "datetime",
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "timedelta",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "timedelta",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "date",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "timedelta",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "timedelta",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "timedelta",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "datetime",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
-        "documentation": {}
-    },
-    {
-        "label": "timedelta",
-        "importPath": "datetime",
-        "description": "datetime",
-        "isExtraImport": true,
-        "detail": "datetime",
         "documentation": {}
     },
     {
@@ -11783,6 +11839,24 @@
         "importPath": "ephem",
         "description": "ephem",
         "detail": "ephem",
+        "documentation": {}
+    },
+    {
+        "label": "dt",
+        "kind": 5,
+        "importPath": ".history.日期计算.时间计算03_20230617163548",
+        "description": ".history.日期计算.时间计算03_20230617163548",
+        "peekOfCode": "dt = datetime.strptime(\"2022 11 26 172500\", \"%Y %m %d %H%M%S\")\n# 将datetime对象格式化为标准的日期时间字符串\nformatted_dt = dt.strftime(\"%Y-%m-%d %H:%M:%S\")\n# 输出格式化后的结果\nprint(formatted_dt)",
+        "detail": ".history.日期计算.时间计算03_20230617163548",
+        "documentation": {}
+    },
+    {
+        "label": "formatted_dt",
+        "kind": 5,
+        "importPath": ".history.日期计算.时间计算03_20230617163548",
+        "description": ".history.日期计算.时间计算03_20230617163548",
+        "peekOfCode": "formatted_dt = dt.strftime(\"%Y-%m-%d %H:%M:%S\")\n# 输出格式化后的结果\nprint(formatted_dt)",
+        "detail": ".history.日期计算.时间计算03_20230617163548",
         "documentation": {}
     },
     {
@@ -41549,6 +41623,150 @@
         "documentation": {}
     },
     {
+        "label": "calc_distance",
+        "kind": 2,
+        "importPath": "坐标计算.calc_distance",
+        "description": "坐标计算.calc_distance",
+        "peekOfCode": "def calc_distance(ra1, dec1, ra2, dec2, ra_unit='degree', dec_unit='degree', target_time=None):\n    \"\"\"\n    计算赤道坐标间的角距离\n    参数:\n    - ra1 (float): 第一个坐标的赤经\n    - dec1 (float): 第一个坐标的赤纬\n    - ra2 (str): 第二个坐标的赤经，格式为 \"HH:MM:SS.S\" （时分秒用冒号分隔）\n    - dec2 (str): 第二个坐标的赤纬，格式为 \"+DD:MM:SS.S\" 或 \"-DD:MM:SS.S\" （符号、度分秒用冒号分隔）\n    - ra_unit (str): 第一个坐标的赤经单位，默认为 \"degree\"\n    - dec_unit (str): 第一个坐标的赤纬单位，默认为 \"degree\"",
+        "detail": "坐标计算.calc_distance",
+        "documentation": {}
+    },
+    {
+        "label": "ra1",
+        "kind": 5,
+        "importPath": "坐标计算.calc_distance",
+        "description": "坐标计算.calc_distance",
+        "peekOfCode": "ra1 = 178.0\ndec1 = 20.0\nra2 = '06:06:50.9'\ndec2 = '+71:17:46'\ndistance = calc_distance(ra1, dec1, ra2, dec2, ra_unit='degree', dec_unit='degree')\nprint('距离为', distance, '度')",
+        "detail": "坐标计算.calc_distance",
+        "documentation": {}
+    },
+    {
+        "label": "dec1",
+        "kind": 5,
+        "importPath": "坐标计算.calc_distance",
+        "description": "坐标计算.calc_distance",
+        "peekOfCode": "dec1 = 20.0\nra2 = '06:06:50.9'\ndec2 = '+71:17:46'\ndistance = calc_distance(ra1, dec1, ra2, dec2, ra_unit='degree', dec_unit='degree')\nprint('距离为', distance, '度')",
+        "detail": "坐标计算.calc_distance",
+        "documentation": {}
+    },
+    {
+        "label": "ra2",
+        "kind": 5,
+        "importPath": "坐标计算.calc_distance",
+        "description": "坐标计算.calc_distance",
+        "peekOfCode": "ra2 = '06:06:50.9'\ndec2 = '+71:17:46'\ndistance = calc_distance(ra1, dec1, ra2, dec2, ra_unit='degree', dec_unit='degree')\nprint('距离为', distance, '度')",
+        "detail": "坐标计算.calc_distance",
+        "documentation": {}
+    },
+    {
+        "label": "dec2",
+        "kind": 5,
+        "importPath": "坐标计算.calc_distance",
+        "description": "坐标计算.calc_distance",
+        "peekOfCode": "dec2 = '+71:17:46'\ndistance = calc_distance(ra1, dec1, ra2, dec2, ra_unit='degree', dec_unit='degree')\nprint('距离为', distance, '度')",
+        "detail": "坐标计算.calc_distance",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": "坐标计算.calc_distance",
+        "description": "坐标计算.calc_distance",
+        "peekOfCode": "distance = calc_distance(ra1, dec1, ra2, dec2, ra_unit='degree', dec_unit='degree')\nprint('距离为', distance, '度')",
+        "detail": "坐标计算.calc_distance",
+        "documentation": {}
+    },
+    {
+        "label": "ra",
+        "kind": 5,
+        "importPath": "坐标计算.skydemo",
+        "description": "坐标计算.skydemo",
+        "peekOfCode": "ra = '06:16:36.8'\ndec = '+71:19:26'\n# Parse the RA and DEC values\nc = SkyCoord(ra, dec, unit=('hourangle', 'deg'))\n# Print the RA and DEC values in decimal format\nprint(c.ra.degree)\nprint(c.dec.degree)",
+        "detail": "坐标计算.skydemo",
+        "documentation": {}
+    },
+    {
+        "label": "dec",
+        "kind": 5,
+        "importPath": "坐标计算.skydemo",
+        "description": "坐标计算.skydemo",
+        "peekOfCode": "dec = '+71:19:26'\n# Parse the RA and DEC values\nc = SkyCoord(ra, dec, unit=('hourangle', 'deg'))\n# Print the RA and DEC values in decimal format\nprint(c.ra.degree)\nprint(c.dec.degree)",
+        "detail": "坐标计算.skydemo",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "坐标计算.skydemo",
+        "description": "坐标计算.skydemo",
+        "peekOfCode": "c = SkyCoord(ra, dec, unit=('hourangle', 'deg'))\n# Print the RA and DEC values in decimal format\nprint(c.ra.degree)\nprint(c.dec.degree)",
+        "detail": "坐标计算.skydemo",
+        "documentation": {}
+    },
+    {
+        "label": "ra",
+        "kind": 5,
+        "importPath": "坐标计算.坐标计算01",
+        "description": "坐标计算.坐标计算01",
+        "peekOfCode": "ra = 178.0\ndec = 20.0\nra_hms = '06:06:50.9'\ndec_dms = '+71:17:46'\ncoord1 = SkyCoord(ra=ra*u.degree, dec=dec*u.degree, frame='icrs')\n# 使用SkyCoord解析赤道坐标，参数中的u.degree表示单位为度，frame指定坐标系为ICRS\ncoord2 = SkyCoord(ra=ra_hms, dec=dec_dms,unit=('hourangle', 'deg'), frame='icrs')\n# 同样通过SkyCoord解析第二组坐标\nsep = coord1.separation(coord2)\n# 计算两个坐标之间的角距离",
+        "detail": "坐标计算.坐标计算01",
+        "documentation": {}
+    },
+    {
+        "label": "dec",
+        "kind": 5,
+        "importPath": "坐标计算.坐标计算01",
+        "description": "坐标计算.坐标计算01",
+        "peekOfCode": "dec = 20.0\nra_hms = '06:06:50.9'\ndec_dms = '+71:17:46'\ncoord1 = SkyCoord(ra=ra*u.degree, dec=dec*u.degree, frame='icrs')\n# 使用SkyCoord解析赤道坐标，参数中的u.degree表示单位为度，frame指定坐标系为ICRS\ncoord2 = SkyCoord(ra=ra_hms, dec=dec_dms,unit=('hourangle', 'deg'), frame='icrs')\n# 同样通过SkyCoord解析第二组坐标\nsep = coord1.separation(coord2)\n# 计算两个坐标之间的角距离\nprint('距离为', sep.deg, '度')",
+        "detail": "坐标计算.坐标计算01",
+        "documentation": {}
+    },
+    {
+        "label": "ra_hms",
+        "kind": 5,
+        "importPath": "坐标计算.坐标计算01",
+        "description": "坐标计算.坐标计算01",
+        "peekOfCode": "ra_hms = '06:06:50.9'\ndec_dms = '+71:17:46'\ncoord1 = SkyCoord(ra=ra*u.degree, dec=dec*u.degree, frame='icrs')\n# 使用SkyCoord解析赤道坐标，参数中的u.degree表示单位为度，frame指定坐标系为ICRS\ncoord2 = SkyCoord(ra=ra_hms, dec=dec_dms,unit=('hourangle', 'deg'), frame='icrs')\n# 同样通过SkyCoord解析第二组坐标\nsep = coord1.separation(coord2)\n# 计算两个坐标之间的角距离\nprint('距离为', sep.deg, '度')",
+        "detail": "坐标计算.坐标计算01",
+        "documentation": {}
+    },
+    {
+        "label": "dec_dms",
+        "kind": 5,
+        "importPath": "坐标计算.坐标计算01",
+        "description": "坐标计算.坐标计算01",
+        "peekOfCode": "dec_dms = '+71:17:46'\ncoord1 = SkyCoord(ra=ra*u.degree, dec=dec*u.degree, frame='icrs')\n# 使用SkyCoord解析赤道坐标，参数中的u.degree表示单位为度，frame指定坐标系为ICRS\ncoord2 = SkyCoord(ra=ra_hms, dec=dec_dms,unit=('hourangle', 'deg'), frame='icrs')\n# 同样通过SkyCoord解析第二组坐标\nsep = coord1.separation(coord2)\n# 计算两个坐标之间的角距离\nprint('距离为', sep.deg, '度')",
+        "detail": "坐标计算.坐标计算01",
+        "documentation": {}
+    },
+    {
+        "label": "coord1",
+        "kind": 5,
+        "importPath": "坐标计算.坐标计算01",
+        "description": "坐标计算.坐标计算01",
+        "peekOfCode": "coord1 = SkyCoord(ra=ra*u.degree, dec=dec*u.degree, frame='icrs')\n# 使用SkyCoord解析赤道坐标，参数中的u.degree表示单位为度，frame指定坐标系为ICRS\ncoord2 = SkyCoord(ra=ra_hms, dec=dec_dms,unit=('hourangle', 'deg'), frame='icrs')\n# 同样通过SkyCoord解析第二组坐标\nsep = coord1.separation(coord2)\n# 计算两个坐标之间的角距离\nprint('距离为', sep.deg, '度')",
+        "detail": "坐标计算.坐标计算01",
+        "documentation": {}
+    },
+    {
+        "label": "coord2",
+        "kind": 5,
+        "importPath": "坐标计算.坐标计算01",
+        "description": "坐标计算.坐标计算01",
+        "peekOfCode": "coord2 = SkyCoord(ra=ra_hms, dec=dec_dms,unit=('hourangle', 'deg'), frame='icrs')\n# 同样通过SkyCoord解析第二组坐标\nsep = coord1.separation(coord2)\n# 计算两个坐标之间的角距离\nprint('距离为', sep.deg, '度')",
+        "detail": "坐标计算.坐标计算01",
+        "documentation": {}
+    },
+    {
+        "label": "sep",
+        "kind": 5,
+        "importPath": "坐标计算.坐标计算01",
+        "description": "坐标计算.坐标计算01",
+        "peekOfCode": "sep = coord1.separation(coord2)\n# 计算两个坐标之间的角距离\nprint('距离为', sep.deg, '度')",
+        "detail": "坐标计算.坐标计算01",
+        "documentation": {}
+    },
+    {
         "label": "is_time_format",
         "kind": 2,
         "importPath": "日期计算.TimeForIsorValidDemo",
@@ -41735,6 +41953,24 @@
         "description": "日期计算.日期计算02",
         "peekOfCode": "def getS_E_Time():\n    # 获取当前日期和时间\n    now = datetime.now()\n    # 设置中午12点作为分界点\n    noon = datetime(now.year, now.month, now.day, 12)\n    # 判断当前时间与中午12点的关系\n    if now < noon:\n        start_time = datetime(now.year, now.month, now.day, 12)-timedelta(1)-timedelta(hours=8)\n        end_time = noon-timedelta(8)\n    else:",
         "detail": "日期计算.日期计算02",
+        "documentation": {}
+    },
+    {
+        "label": "dt",
+        "kind": 5,
+        "importPath": "日期计算.时间计算03",
+        "description": "日期计算.时间计算03",
+        "peekOfCode": "dt = datetime.strptime(\"2022 11 26 172500\", \"%Y %m %d %H%M%S\")\n# 将datetime对象格式化为标准的日期时间字符串\nformatted_dt = dt.strftime(\"%Y-%m-%d %H:%M:%S\")\n# 输出格式化后的结果\nprint(formatted_dt)",
+        "detail": "日期计算.时间计算03",
+        "documentation": {}
+    },
+    {
+        "label": "formatted_dt",
+        "kind": 5,
+        "importPath": "日期计算.时间计算03",
+        "description": "日期计算.时间计算03",
+        "peekOfCode": "formatted_dt = dt.strftime(\"%Y-%m-%d %H:%M:%S\")\n# 输出格式化后的结果\nprint(formatted_dt)",
+        "detail": "日期计算.时间计算03",
         "documentation": {}
     },
     {
